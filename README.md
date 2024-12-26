@@ -2,6 +2,8 @@
 
 This repository provides the implementation of multiple algorithms for finding the top-r influential communities in a bipartite graph. The code includes both accurate and approximate solutions, using different methods to enhance efficiency and accuracy. Below is a structured overview of the project.
 
+Paper Link: https://arxiv.org/abs/2412.06216
+
 ## Project Structure
 TopRInfluentialCommunity/  
 │  
